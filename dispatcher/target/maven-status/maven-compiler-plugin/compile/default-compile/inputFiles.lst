@@ -1,0 +1,9 @@
+C:\ProjectsJava\BabushkinPogreb\dispatcher\src\main\java\org\example\configuration\RabbitConfiguration.java
+C:\ProjectsJava\BabushkinPogreb\dispatcher\src\main\java\org\example\DispatcherApplication.java
+C:\ProjectsJava\BabushkinPogreb\dispatcher\src\main\java\org\example\service\AnswerConsumer.java
+C:\ProjectsJava\BabushkinPogreb\dispatcher\src\main\java\org\example\service\impl\UpdateProduceImpl.java
+C:\ProjectsJava\BabushkinPogreb\dispatcher\src\main\java\org\example\controller\UpdateController.java
+C:\ProjectsJava\BabushkinPogreb\dispatcher\src\main\java\org\example\controller\TelegramBot.java
+C:\ProjectsJava\BabushkinPogreb\dispatcher\src\main\java\org\example\service\impl\AnswerConsumerImpl.java
+C:\ProjectsJava\BabushkinPogreb\dispatcher\src\main\java\org\example\utils\MessageUtils.java
+C:\ProjectsJava\BabushkinPogreb\dispatcher\src\main\java\org\example\service\UpdateProducer.java

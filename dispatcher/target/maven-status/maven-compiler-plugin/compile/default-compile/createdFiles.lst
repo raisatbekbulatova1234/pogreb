@@ -1,0 +1,9 @@
+org\example\service\impl\AnswerConsumerImpl.class
+org\example\controller\UpdateController.class
+org\example\controller\TelegramBot.class
+org\example\service\AnswerConsumer.class
+org\example\service\impl\UpdateProduceImpl.class
+org\example\configuration\RabbitConfiguration.class
+org\example\service\UpdateProducer.class
+org\example\utils\MessageUtils.class
+org\example\DispatcherApplication.class

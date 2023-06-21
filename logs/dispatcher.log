@@ -1,0 +1,112 @@
+2023-05-20 21:42:30 DEBUG TelegramBot:31 - Hello, Raya!
+2023-05-20 21:45:41 DEBUG TelegramBot:31 - I love you!
+2023-05-20 21:51:30 DEBUG TelegramBot:33 - Hello
+2023-05-20 21:51:30 ERROR TelegramBot:46 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-05-20 22:38:18 DEBUG UpdateProduceImpl:13 - Hello again
+2023-05-20 22:38:53 ERROR UpdateController:36 - Unsupported message type is received:Update(updateId=129817398, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=8, from=User(id=544298454, firstName=Raya, isBot=false, lastName=null, userName=IInferno_onrefnII, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1684611498, chat=Chat(id=544298454, type=private, title=null, firstName=Raya, lastName=null, userName=IInferno_onrefnII, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Hello again!!!, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1684611533, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-05-20 22:39:40 DEBUG UpdateProduceImpl:13 - 
+2023-05-20 22:40:16 DEBUG UpdateProduceImpl:13 - 
+2023-05-21 11:25:26 DEBUG UpdateProduceImpl:20 - Help me!
+2023-05-21 11:59:40 DEBUG UpdateProduceImpl:20 - Hello from chat!
+2023-05-21 14:18:40 DEBUG UpdateProduceImpl:20 - Hola!
+2023-05-21 14:20:20 DEBUG UpdateProduceImpl:20 - Op! Na-nay-na!
+2023-05-22 14:02:27 DEBUG UpdateProduceImpl:20 - Наоопасгпчнасгс
+2023-05-23 15:17:21 DEBUG UpdateProduceImpl:20 - 
+2023-05-23 15:17:41 DEBUG UpdateProduceImpl:20 - 
+2023-05-23 15:22:51 DEBUG UpdateProduceImpl:20 - 
+2023-05-23 19:20:55 DEBUG UpdateProduceImpl:20 - 
+2023-05-23 19:21:20 DEBUG UpdateProduceImpl:20 - /help
+2023-05-23 19:21:32 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-23 19:22:33 DEBUG UpdateProduceImpl:20 - yaxoge4817@farebus.com
+2023-05-23 19:26:51 DEBUG UpdateProduceImpl:20 - /help
+2023-05-23 19:26:53 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-23 19:27:44 DEBUG UpdateProduceImpl:20 - /cancel
+2023-05-23 19:27:59 DEBUG UpdateProduceImpl:20 - 
+2023-05-23 19:28:04 DEBUG UpdateProduceImpl:20 - /help
+2023-05-23 19:28:06 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-23 19:28:21 DEBUG UpdateProduceImpl:20 - /cancel
+2023-05-24 09:35:41 DEBUG UpdateProduceImpl:20 - 
+2023-05-24 09:35:50 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 09:35:53 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 09:39:25 DEBUG UpdateProduceImpl:20 - 
+2023-05-24 09:39:39 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 09:39:42 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 09:44:13 DEBUG UpdateProduceImpl:20 - /start
+2023-05-24 09:44:18 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 09:44:22 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 09:51:10 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 09:51:46 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 09:52:35 DEBUG UpdateProduceImpl:20 - xosovev522@farebus.com
+2023-05-24 09:52:50 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 09:52:52 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 09:59:41 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 09:59:43 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 10:02:20 DEBUG UpdateProduceImpl:20 - satorusatorusatoru@yandex.ru
+2023-05-24 10:04:47 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 10:04:50 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 10:06:35 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 10:06:41 DEBUG UpdateProduceImpl:20 - /cancel
+2023-05-24 10:06:43 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 10:07:52 DEBUG UpdateProduceImpl:20 - satorusatorusatoru@yandex.ru
+2023-05-24 10:19:44 DEBUG UpdateProduceImpl:20 - /cancel
+2023-05-24 10:19:46 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 10:19:47 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 10:20:03 DEBUG UpdateProduceImpl:20 - satorusatorusatoru@yandex.ru
+2023-05-24 10:23:19 DEBUG UpdateProduceImpl:20 - /cancel
+2023-05-24 10:23:21 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 10:23:25 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 13:07:00 DEBUG UpdateProduceImpl:20 - 
+2023-05-24 13:07:01 DEBUG UpdateProduceImpl:20 - /cancel
+2023-05-24 13:07:01 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 13:07:01 DEBUG UpdateProduceImpl:20 - /start
+2023-05-24 13:07:01 DEBUG UpdateProduceImpl:20 - /start
+2023-05-24 13:07:01 DEBUG UpdateProduceImpl:20 - /start
+2023-05-24 13:07:01 DEBUG UpdateProduceImpl:20 - /start
+2023-05-24 13:07:01 DEBUG UpdateProduceImpl:20 - 
+2023-05-24 13:07:43 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 13:07:54 DEBUG UpdateProduceImpl:20 - 
+2023-05-24 13:07:58 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 13:08:24 DEBUG UpdateProduceImpl:20 - satorusatorusatoru@yandex.ru
+2023-05-24 14:32:53 DEBUG UpdateProduceImpl:20 - /start
+2023-05-24 14:32:58 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 14:33:03 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 14:33:29 DEBUG UpdateProduceImpl:20 - xosovev522@farebus.com
+2023-05-24 14:33:53 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 14:33:58 DEBUG UpdateProduceImpl:20 - bfcfnjfgkk,hh
+2023-05-24 14:35:48 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 14:35:51 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 14:36:39 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 14:36:41 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 14:37:06 DEBUG UpdateProduceImpl:20 - raisat.bekbulatova1234@gmail.com
+2023-05-24 14:42:25 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 14:42:27 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 14:43:37 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 14:43:39 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 14:43:52 DEBUG UpdateProduceImpl:20 - raisat.bekbulatova1234@gmail.com
+2023-05-24 15:01:24 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 15:01:26 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 15:01:39 DEBUG UpdateProduceImpl:20 - raisat.bekbulatova1234@gmail.com
+2023-05-24 15:02:30 DEBUG UpdateProduceImpl:20 - 
+2023-05-24 15:03:39 DEBUG UpdateProduceImpl:20 - 
+2023-05-24 15:09:50 DEBUG UpdateProduceImpl:20 - /start
+2023-05-24 15:09:54 DEBUG UpdateProduceImpl:20 - Алье
+2023-05-24 15:09:56 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 15:10:01 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 15:10:17 DEBUG UpdateProduceImpl:20 - lina.grinko.02@mail.ru
+2023-05-24 15:12:18 DEBUG UpdateProduceImpl:20 - /start
+2023-05-24 15:12:24 DEBUG UpdateProduceImpl:20 - Здравствуйте
+2023-05-24 15:12:28 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 15:16:18 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 15:16:27 DEBUG UpdateProduceImpl:20 - vika4ka1804@mail.ru
+2023-05-24 15:30:37 DEBUG UpdateProduceImpl:20 - Алье
+2023-05-24 15:31:03 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 15:31:05 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 15:33:37 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 15:33:42 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 15:34:45 DEBUG UpdateProduceImpl:20 - /cancel
+2023-05-24 15:35:12 ERROR UpdateProcessor:37 - Unsupported message type is received: Update(updateId=129817499, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=5282626986, type=private, title=null, firstName=Виктория, lastName=Гринько, userName=null, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), from=User(id=5282626986, firstName=Виктория, isBot=false, lastName=Гринько, userName=null, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1684931711, oldChatMember=ChatMemberMember(status=member, user=User(id=6147804622, firstName=BabushkinPogrebMyBot, isBot=true, lastName=null, userName=babushkin_pogreb_my_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), newChatMember=ChatMemberBanned(status=kicked, user=User(id=6147804622, firstName=BabushkinPogrebMyBot, isBot=true, lastName=null, userName=babushkin_pogreb_my_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), inviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-05-24 15:35:45 ERROR UpdateProcessor:37 - Unsupported message type is received: Update(updateId=129817500, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=null, channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=ChatMemberUpdated(chat=Chat(id=5282626986, type=private, title=null, firstName=Виктория, lastName=Гринько, userName=null, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), from=User(id=5282626986, firstName=Виктория, isBot=false, lastName=Гринько, userName=null, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1684931744, oldChatMember=ChatMemberBanned(status=kicked, user=User(id=6147804622, firstName=BabushkinPogrebMyBot, isBot=true, lastName=null, userName=babushkin_pogreb_my_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), untilDate=0), newChatMember=ChatMemberMember(status=member, user=User(id=6147804622, firstName=BabushkinPogrebMyBot, isBot=true, lastName=null, userName=babushkin_pogreb_my_bot, languageCode=null, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null)), inviteLink=null), chatMember=null, chatJoinRequest=null)
+2023-05-24 15:35:47 DEBUG UpdateProduceImpl:20 - /start
+2023-05-24 15:35:50 DEBUG UpdateProduceImpl:20 - /help
+2023-05-24 15:35:53 DEBUG UpdateProduceImpl:20 - /registration
+2023-05-24 15:36:03 DEBUG UpdateProduceImpl:20 - vika4ka1804@mail.ru

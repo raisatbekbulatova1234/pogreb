@@ -1,0 +1,11 @@
+org\example\entity\RawData$RawDataBuilder.class
+org\example\service\impl\MainServiceImpl.class
+org\example\service\ConsumerService.class
+org\example\service\impl\ProducerServiceImpl.class
+org\example\configuration\RabbitConfiguration.class
+org\example\entity\RawData.class
+org\example\service\MainService.class
+org\example\service\impl\ConsumerServiceImpl.class
+org\example\service\ProducerService.class
+org\example\NodeApplication.class
+org\example\dao\RawDataDAO.class

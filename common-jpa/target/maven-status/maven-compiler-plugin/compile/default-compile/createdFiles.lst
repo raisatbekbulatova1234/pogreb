@@ -1,0 +1,4 @@
+com\example\dao\AppUserDAO.class
+com\example\entity\AppUser$AppUserBuilder.class
+com\example\entity\AppUser.class
+com\example\entity\enums\UserState.class
